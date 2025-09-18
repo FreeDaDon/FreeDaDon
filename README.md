@@ -68,7 +68,7 @@ CyberChef, Steghide, RStudio, John the Ripper, Hashcat, CertUtil, Epoch Converte
 ---
 
 ## 📄 Resume  
-👉 [View My Full Resume (PDF)](./Lester_Clarke_Resume.pdf)
+👉 [View My Full Resume (PDF)](./Lester-Clarke-Flow2-Resume.pdf)
 
 ---
 
